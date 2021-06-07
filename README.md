@@ -6,7 +6,7 @@
 
 I'm Lukas, a machine learning engineer and full-stack developer from Berlin 🇩🇪 I like to explore disruptive ideas and build simple tools that solve real problems from initial architecture to a production-ready solution. 
 
-I'm focused on building scalable data solutions involving Machine Learning, Knowledge Graphs, and NLP during the last few years. Previously, I created and scaled mobile & web applications as well. On the side, I'm also building open-source tools.
+I'm focused on building scalable data solutions involving Machine Learning, Knowledge Graphs, and NLP during the last few years. Previously, I created various mobile & web applications as well. On the side, I'm also building open-source tools.
 
 <details>
  <summary>My Tech Stack</summary>
