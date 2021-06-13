@@ -73,7 +73,10 @@ My focus in recent years has been on building scalable data solutions using Mach
 <a href="mailto:lukas.masuch@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/email-%23BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/lukasmasuch" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
+<a href="https://lukasmasuch.com" target="_blank">
+<img src="https://img.shields.io/badge/Website-%23707070.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" alt=website style="margin-bottom: 5px;" />
+</a>
+ <a href="https://github.com/lukasmasuch" target="_blank">
+<img src="https://img.shields.io/badge/github-%23404040.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
 </a>
 </div>  
